@@ -7,4 +7,5 @@
 **Thoughts** intresting 
 
 **Link(s) to work**
+https://www.freecodecamp.com/challenges/change-the-color-of-text#?solution=%0A%3Ch2%20style%3D%22color%3A%20%0A%20%20red%22%3ECatPhotoApp%3C%2Fh2%3E%0A%0A%3Cp%3EKitty%20ipsum%20dolor%20sit%20amet%2C%20shed%20everywhere%20shed%20everywhere%20stretching%20attack%20your%20ankles%20chase%20the%20red%20dot%2C%20hairball%20run%20catnip%20eat%20the%20grass%20sniff.%3C%2Fp%3E%0A
 
