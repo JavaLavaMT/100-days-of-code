@@ -27,3 +27,13 @@ https://www.freecodecamp.com/challenges/change-the-color-of-text#?solution=%0A%3
 **Thoughts**  trying to understand differnt errors 
 
 **Link(s) to work**
+
+
+### Day 3: Feb 18 2017, Wed
+
+**Today's Progress**: added links to photo and added different boarder sizes
+
+**Thoughts**  pretty neat watching things change with just one line 
+
+**Link(s) to work**
+https://www.freecodecamp.com/challenges/turn-an-image-into-a-link
