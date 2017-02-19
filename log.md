@@ -37,3 +37,15 @@ https://www.freecodecamp.com/challenges/change-the-color-of-text#?solution=%0A%3
 
 **Link(s) to work**
 https://www.freecodecamp.com/challenges/turn-an-image-into-a-link
+
+
+
+### Day 4: Feb 15 2017, Wed
+
+**Today's Progress**: created check boxed and radio boxes and div
+
+**Thoughts** today was a fun one
+
+**Link(s) to work**
+
+
