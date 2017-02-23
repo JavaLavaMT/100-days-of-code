@@ -49,3 +49,30 @@ https://www.freecodecamp.com/challenges/turn-an-image-into-a-link
 **Link(s) to work**
 
 
+
+### Day 5: Feb 15 2017, Wed
+
+**Today's Progress**: working on splash screen 
+
+**Thoughts** hard
+
+**Link(s) to work**
+
+
+### Day 6: Feb 15 2017, Wed
+
+**Today's Progress**: working on sprite
+
+**Thoughts** still dont understand it
+
+**Link(s) to work**
+
+
+### Day 7: Feb 15 2017, Wed
+
+**Today's Progress**: sprites with splash
+
+**Thoughts** cant seem to understand how it all works 
+
+**Link(s) to work**
+
