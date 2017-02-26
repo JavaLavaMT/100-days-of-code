@@ -76,3 +76,30 @@ https://www.freecodecamp.com/challenges/turn-an-image-into-a-link
 
 **Link(s) to work**
 
+
+### Day 8: Feb 15 2017, Wed
+
+**Today's Progress**: learned Jquary
+
+**Thoughts**  know idead still
+
+**Link(s) to work**
+
+
+### Day 9: Feb 15 2017, Wed
+
+**Today's Progress**: added animatoins to splash
+
+**Thoughts**
+
+**Link(s) to work**
+
+
+### Day 10: Feb 15 2017, Wed
+
+**Today's Progress**: finished HTML5 and CSS
+
+**Thoughts** pretty neat to learn about rgb
+
+**Link(s) to work**
+
