@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 
-### Day 0: Jan 1 2018, Mon
+### Day 1: Jan 1 2018, Mon
 
 **Today's Progress**: working on codefights intro and going back to Free Code Camp
 
