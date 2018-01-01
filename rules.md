@@ -4,7 +4,7 @@
 ### *I will code for at least an hour every day for the next 100 days.*
 
 #### Start Date
-Feb 15th, 2017. Jeremy Cherer
+Jan 1st, 2018. Jeremy Cherer
 
 ## Additional Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
