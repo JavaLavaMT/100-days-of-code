@@ -19,3 +19,14 @@
 **Link(s) to work** https://github.com/JavaLavaMT/Random-Quote-gen/tree/master
 
 
+
+### Day 3: Jan 3 2018, Wed
+
+**Today's Progress**: working on random quote generator got quotes from JSON .
+
+**Thoughts**  not sure if i fullying understander JSON but will keep playing with it.
+
+**Link(s) to work** https://github.com/JavaLavaMT/Random-Quote-gen
+
+
+
