@@ -29,4 +29,11 @@
 **Link(s) to work** https://github.com/JavaLavaMT/Random-Quote-gen
 
 
+### Day 4: Jan 4 2018, Thur
+
+**Today's Progress**: added some if statments and added some front end 
+
+**Thoughts**  likeing JSON and love having a good group of people to help
+
+**Link(s) to work** https://github.com/JavaLavaMT/Random-Quote-gen
 
