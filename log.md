@@ -37,3 +37,12 @@
 
 **Link(s) to work** https://github.com/JavaLavaMT/Random-Quote-gen
 
+
+
+### Day 5: Jan 5 2018, Fri
+
+**Today's Progress**: finished my Random Quot Gen
+
+**Thoughts**  feeling on top 
+
+**Link(s) to work** https://codepen.io/JavaLavaMT/pen/xprQJW
