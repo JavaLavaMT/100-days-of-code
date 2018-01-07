@@ -46,3 +46,19 @@
 **Thoughts**  feeling on top 
 
 **Link(s) to work** https://codepen.io/JavaLavaMT/pen/xprQJW
+
+
+
+### Day 6: Jan 6 2018, Sat
+
+**Today's Progress**: started on weather project added a change of background
+
+**Thoughts**  feeling good 
+
+**Link(s) to work** https://github.com/JavaLavaMT/Weather-project
+
+
+
+
+
+
