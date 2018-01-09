@@ -58,6 +58,23 @@
 **Link(s) to work** https://github.com/JavaLavaMT/Weather-project
 
 
+### Day 7: Jan 7 2018, Sun
+
+**Today's Progress**: started on weather project added a change of background
+
+**Thoughts**  feeling good 
+
+**Link(s) to work** https://github.com/JavaLavaMT/Weather-project
+
+### Day 8: Jan 8 2018, Mon
+
+**Today's Progress**: added noted, floting boxes and cleaned up JS
+
+**Thoughts**  little stressed
+
+**Link(s) to work** https://github.com/JavaLavaMT/Weather-project
+
+
 
 
 
