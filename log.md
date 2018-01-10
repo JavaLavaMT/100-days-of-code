@@ -75,6 +75,15 @@
 **Link(s) to work** https://github.com/JavaLavaMT/Weather-project
 
 
+### Day 9: Jan 9 2018, Tue
+
+**Today's Progress**: fished weather progect
+
+**Thoughts**  feeling excited for whats next
+
+**Link(s) to work** https://github.com/JavaLavaMT/Weather-project
+
+
 
 
 
