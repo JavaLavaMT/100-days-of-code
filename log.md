@@ -84,6 +84,15 @@
 **Link(s) to work** https://github.com/JavaLavaMT/Weather-project
 
 
+### Day 10: Jan 10 2018, WED
+
+**Today's Progress**: added final touches to the weather project. and tryed Regular expressions
+
+**Thoughts**  now i am ready for what is next
+
+**Link(s) to work** https://codepen.io/JavaLavaMT/pen/KZyMLK
+
+
 
 
 
