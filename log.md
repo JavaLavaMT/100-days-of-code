@@ -93,6 +93,15 @@
 **Link(s) to work** https://codepen.io/JavaLavaMT/pen/KZyMLK
 
 
+### Day 11: Jan 11 2018, Thur
+
+**Today's Progress**: adding a different way to JSON
+
+**Thoughts**  learning somethign new is alwasy good
+
+**Link(s) to work** https://codepen.io/JavaLavaMT/pen/baMEPO
+
+
 
 
 
