@@ -111,6 +111,16 @@
 **Link(s) to work** https://codepen.io/JavaLavaMT/pen/baMEPO
 
 
+### Day 12: Jan 12 2018, Fri
+
+**Today's Progress**: still lerning and now trying to understand more about ajx,api,and JSON
+
+**Thoughts** still struggling with this
+
+**Link(s) to work** https://codepen.io/JavaLavaMT/pen/baMEPO
+
+
+
 
 
 
