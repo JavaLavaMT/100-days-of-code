@@ -111,13 +111,22 @@
 **Link(s) to work** https://codepen.io/JavaLavaMT/pen/baMEPO
 
 
-### Day 12: Jan 12 2018, Fri
+### Day 13: Jan 13 2018, Sat
 
 **Today's Progress**: still lerning and now trying to understand more about ajx,api,and JSON
 
 **Thoughts** still struggling with this
 
 **Link(s) to work** https://codepen.io/JavaLavaMT/pen/baMEPO
+
+
+### Day 14: Jan 14 2018, Sun
+
+**Today's Progress**: finished backend WIKI app 
+
+**Thoughts** today was hard but i leanred more about ajax 
+
+**Link(s) to work** https://codepen.io/JavaLavaMT/pen/baMEPO?editors=1111
 
 
 
