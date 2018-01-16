@@ -129,6 +129,14 @@
 **Link(s) to work** https://codepen.io/JavaLavaMT/pen/baMEPO?editors=1111
 
 
+### Day 15: Jan 15 2018, Mon
+
+**Today's Progress**: finished frontend WIKI app 
+
+**Thoughts** having a blast
+
+**Link(s) to work** https://codepen.io/JavaLavaMT/pen/baMEPO?editors=1111
+
 
 
 
